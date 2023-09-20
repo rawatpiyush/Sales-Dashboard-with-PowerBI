@@ -18,3 +18,7 @@ Key Steps Covered:
 In addition to the step-by-step instructions, this repository may include sample datasets, Power BI project files, DAX formulas, and best practices for data visualization. It serves as a valuable resource for both beginners looking to start their BI journey and experienced Power BI users seeking to enhance their skills in sales data analysis and dashboard creation.
 
 By following the contents of the "Sales Dashboard with Power BI" repository, users can harness the full potential of Power BI to transform raw sales data into actionable insights, enabling data-driven strategies and informed decision-making for businesses of all sizes.
+
+![image](https://github.com/rawatpiyush/Sales-Dashboard-with-PowerBI/assets/143168770/872e1655-e0b7-48b0-bcf1-6e16d5a205a2)
+
+
